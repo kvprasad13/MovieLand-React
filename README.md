@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Movie Land
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+🎬 Movie Land is a dynamic website developed with React that provides users with a platform to explore and watch movies. With features such as movie listing and search functionality, it offers an engaging experience for movie enthusiasts.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Movie Listing:**
+  - 🎥 Display a curated list of movies for users to explore.
 
-### `npm start`
+- **Search Functionality:**
+  - 🔍 Implement a powerful search feature to help users find their favorite movies.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Frontend:**
+  - ⚛️ React
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+- 📚 Node.js and npm installed
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 1. Clone the repository
+      git clone https://github.com/your-username/movie-land.git
+      cd movie-land
+#### 2. Install dependencies
+      npm install
+#### 3. Run the application
+      npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Folder Structure
+     movie-land/
+     |-- public/
+     |-- src/
+     |   |-- App.js
+     |   |-- index.js
+     |   |-- App.css
+     |   |-- MovieCard.jsx
+     |   |-- search.svg
+     |
+     |-- .gitignore
+     |-- package.json
+     |-- README.md
 
-### `npm run eject`
+# Screenshots of this project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Home Page
+![Screenshot 2024-01-19 090544](https://github.com/kvprasad13/MovieLand-React/assets/123655329/41b58527-e6bc-4b71-be1b-4a1d799c84bf)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Search Functionality
+![Screenshot 2024-01-19 090610](https://github.com/kvprasad13/MovieLand-React/assets/123655329/b5a0f836-916e-4478-b7d6-8fa0db5b863b)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Author
+Varaprasad Kade
